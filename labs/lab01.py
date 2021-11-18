@@ -1,0 +1,14 @@
+a = int(input())
+b = int(input())
+print ("a =", a)
+print ("b =", b)
+soma = a + b
+print("a + b =", soma)
+subtracao = a - b
+print("a - b =", subtracao)
+multiplicacao = a*b
+print("a * b =", multiplicacao)
+divisao = a//b
+print("a // b =", divisao)
+modulo = a%b
+print("a % b =", modulo)
